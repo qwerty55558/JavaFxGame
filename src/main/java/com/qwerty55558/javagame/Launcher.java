@@ -4,6 +4,6 @@ import com.almasb.fxgl.app.GameApplication;
 
 public class Launcher {
     public static void main(String[] args) {
-        GameApplication.launch(MyBasic.class, args);
+        MyBasic.launch(MyBasic.class, args);
     }
 }
